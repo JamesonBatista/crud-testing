@@ -1,0 +1,17 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://demo0065046.mockable.io/",
+    "mock": "mocks/jsonmock8",
+    "body": null,
+    "qs": null,
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "expects": [
+    { "path": "status" },
+    { "path": "bancos" },
+    { "path": "cnpj", "eq": 35143510351514 }
+  ]
+}

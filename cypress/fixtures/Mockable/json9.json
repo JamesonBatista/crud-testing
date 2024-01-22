@@ -1,0 +1,19 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://demo0065046.mockable.io/",
+    "mock": "mocks/jsonmock9",
+    "body": null,
+    "qs": null,
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "expects": [
+    { "path": "status" },
+    { "path": "name", "eq": "Margareth" },
+    { "path": "city", "eq": "São Paulo" },
+    { "path": "state" },
+    { "path": "lat", "eq": 4514.13515 }
+  ]
+}
