@@ -13,7 +13,7 @@
     }
   },
   "headers": {
-    "date": "Mon, 22 Jan 2024 16:23:43 GMT",
+    "date": "Tue, 23 Jan 2024 20:58:25 GMT",
     "content-type": "application/json; charset=utf-8",
     "transfer-encoding": "chunked",
     "connection": "keep-alive",
@@ -26,10 +26,10 @@
     "via": "1.1 vegur",
     "cache-control": "max-age=14400",
     "cf-cache-status": "HIT",
-    "age": "3021",
+    "age": "3423",
     "vary": "Accept-Encoding",
     "server": "cloudflare",
-    "cf-ray": "8499249eddd6a4bd-GRU",
+    "cf-ray": "84a2f463081702e9-GRU",
     "content-encoding": "gzip"
   },
   "status": 200,
@@ -56,7 +56,7 @@
       "Request URL": "https://reqres.in/api/users/2",
       "Response Body": "{\"data\":{\"id\":2,\"email\":\"janet.weaver@reqres.in\",\"first_name\":\"Janet\",\"last_name\":\"Weaver\",\"avatar\":\"https://reqres.in/img/faces/2-image.jpg\"},\"support\":{\"url\":\"https://reqres.in/#support-heading\",\"text\":\"To keep ReqRes free, contributions towards server costs are appreciated!\"}}",
       "Response Headers": {
-        "date": "Mon, 22 Jan 2024 16:23:43 GMT",
+        "date": "Tue, 23 Jan 2024 20:58:25 GMT",
         "content-type": "application/json; charset=utf-8",
         "transfer-encoding": "chunked",
         "connection": "keep-alive",
@@ -69,10 +69,10 @@
         "via": "1.1 vegur",
         "cache-control": "max-age=14400",
         "cf-cache-status": "HIT",
-        "age": "3021",
+        "age": "3423",
         "vary": "Accept-Encoding",
         "server": "cloudflare",
-        "cf-ray": "8499249eddd6a4bd-GRU",
+        "cf-ray": "84a2f463081702e9-GRU",
         "content-encoding": "gzip"
       },
       "Response Status": 200

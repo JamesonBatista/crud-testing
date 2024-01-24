@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^13.6.3",
-    "cypress-crud": "^1.7.7"
+    "cypress-crud": "^1.7.9"
   }
 }
